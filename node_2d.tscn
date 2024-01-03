@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://clrpfponjlebj"]
+
+[ext_resource type="Script" path="res://POPO.gd" id="1_pj48m"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="POPO" type="Node2D" parent="."]
+script = ExtResource("1_pj48m")
