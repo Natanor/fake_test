@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://dp47e0ffv448v"]
+
+[node name="dddd" type="Node2D"]
+
+[node name="ShaderGlobalsOverride" type="ShaderGlobalsOverride" parent="."]
